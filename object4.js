@@ -1,3 +1,4 @@
+//for of loop
 let user=[{"id":1,"name":"Keely","gender":"Female"},
     {"id":2,"name":"Nelly","gender":"Genderfluid"},
     {"id":3,"name":"Ricardo","gender":"Male"},
@@ -106,3 +107,4 @@ let user=[{"id":1,"name":"Keely","gender":"Female"},
         }
     }
     console.log("no of male users",no_of_Male_user)
+    
